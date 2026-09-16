@@ -5,7 +5,7 @@ My hands-on journey learning Machine Learning with Python, based on the book
 
 ## Progress
 - [x] Environment setup (Python, venv, scikit-learn)
-- [ ] Pandas and Matplotlib
+- [x] Pandas and Matplotlib
 - [ ] Descriptive statistics
 - [ ] Classification algorithms
 - [ ] Regression algorithms
